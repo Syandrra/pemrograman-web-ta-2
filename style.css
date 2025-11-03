@@ -1,0 +1,204 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Segoe UI", Arial, sans-serif;
+    background-color: #f7f6f3;
+    color: #333;
+    line-height: 1.7;
+}
+
+/* Header */
+.header {
+    background-color: #fdfdfd;
+    border-bottom: 3px solid #d4af37;
+    text-align: center;
+    padding: 25px 0;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.05);
+}
+
+.header h1 {
+    color: #2f2f2f;
+}
+
+.navigation ul {
+    list-style: none;
+    margin-top: 10px;
+}
+
+.navigation li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.navigation a {
+    color: #555;
+    text-decoration: none;
+    padding: 8px 14px;
+    background-color: #f0e8d9;
+    border-radius: 5px;
+    transition: 0.3s;
+}
+
+.navigation a:hover {
+    background-color: #d4af37;
+    color: white;
+}
+
+/* Layout utama */
+.container {
+    max-width: 1100px;
+    margin: 30px auto;
+    background-color: #ffffff;
+    padding: 20px;
+    overflow: hidden;
+    border-radius: 10px;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.05);
+}
+
+.content {
+    float: left;
+    width: 70%;
+    padding-right: 20px;
+}
+
+.sidebar {
+    float: right;
+    width: 27%;
+    background-color: #f9f5ee;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/* Card */
+.card {
+    background-color: #fdfcf9;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-left: 4px solid #d4af37;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.04);
+}
+
+.card h2 {
+    color: #2f2f2f;
+    margin-bottom: 15px;
+}
+
+/* FOTO PROFIL BULAT */
+.card img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto 15px auto;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+/* Tombol */
+.btn {
+    background-color: #d4af37;
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    display: inline-block;
+    border-radius: 6px;
+    transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+    background-color: #b8962c;
+}
+
+/* Sidebar widget */
+.widget {
+    margin-bottom: 25px;
+}
+
+.widget h3 {
+    color: #2f2f2f;
+    margin-bottom: 10px;
+    border-bottom: 2px solid #d4af37;
+    padding-bottom: 5px;
+}
+
+.widget ul {
+    list-style: none;
+}
+
+.widget li {
+    margin-bottom: 8px;
+    color: #555;
+}
+
+.widget a {
+    color: #555;
+    text-decoration: none;
+}
+
+.widget a:hover {
+    color: #d4af37;
+}
+
+/* Form */
+label {
+    display: block;
+    margin-top: 12px;
+    font-weight: 600;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 15px;
+    background-color: #fafafa;
+}
+
+input:focus, textarea:focus {
+    border-color: #d4af37;
+    outline: none;
+}
+
+button {
+    width: 100%;
+    background-color: #d4af37;
+    color: white;
+    padding: 12px;
+    border: none;
+    border-radius: 6px;
+    margin-top: 15px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+button:hover {
+    background-color: #b8962c;
+}
+
+.required {
+    color: red;
+}
+
+/* Footer */
+.footer {
+    background-color: #fdfdfd;
+    color: #555;
+    text-align: center;
+    padding: 20px 0;
+    margin-top: 40px;
+    border-top: 2px solid #d4af37;
+}
+
+/* Clearfix */
+.container:after {
+    content: "";
+    display: table;
+    clear: both;
+}
