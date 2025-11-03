@@ -27,14 +27,6 @@ Portofolio ini dirancang dengan fitur-fitur berikut untuk pengalaman pengguna ya
 * **Footer:** Dilengkapi informasi hak cipta.
 * **Transisi & Animasi:** Efek animasi dan transisi lembut diterapkan di seluruh halaman untuk estetika modern.
 
-## 💻 Teknologi yang Digunakan
-
-| Kategori | Teknologi | Deskripsi |
-| :--- | :--- | :--- |
-| **Markup** | HTML5 | Struktur dasar dan konten halaman web. |
-| **Gaya/Styling** | CSS3 | Desain, tata letak menggunakan Flexbox, Animasi, dan Transisi. |
-| **Versi Kontrol** | Git & GitHub | Digunakan untuk manajemen kode sumber, *tracking* perubahan, dan *deployment*. |
-
 ---
 
 ## 🔧 Panduan Penggunaan
