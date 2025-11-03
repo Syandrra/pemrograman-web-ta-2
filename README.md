@@ -57,7 +57,7 @@ Terima kasih telah mengunjungi repositori ini!
 LANGKAH-LANGKAH PENGERJAAN
 
 <img width="1243" height="705" alt="image" src="https://github.com/user-attachments/assets/53106c1f-5966-4bdd-9658-9465491462e2" />
-![WhatsApp Image 2025-11-03 at 20 08 44_a1d87c05](https://github.com/user-attachments/assets/a2f71bce-60ed-4a2a-bff9-2ab6c63f4f12)
-![WhatsApp Image 2025-11-03 at 20 09 01_d60af9de](https://github.com/user-attachments/assets/73bb64fb-4890-4fe9-b13f-98fec0f5bee9)
-![WhatsApp Image 2025-11-03 at 20 13 07_c5b96a1e](https://github.com/user-attachments/assets/681f68e1-748c-4254-b848-e7f9c19fac0c)
+<img width="801" height="487" alt="image" src="https://github.com/user-attachments/assets/6605491e-29c8-413a-80d1-84ae6b88ea78" />
+<img width="921" height="764" alt="image" src="https://github.com/user-attachments/assets/484e04b2-7977-4071-8845-7dcd387aaf17" />
+<img width="911" height="925" alt="image" src="https://github.com/user-attachments/assets/21352214-ea79-4254-b4a7-bfd0a6052e53" />
 <img width="933" height="208" alt="image" src="https://github.com/user-attachments/assets/c4b291a4-5ac9-42ac-a57c-4bfc803d7683" />
