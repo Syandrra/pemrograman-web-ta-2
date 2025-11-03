@@ -58,7 +58,7 @@ Untuk melihat atau menjalankan proyek ini secara lokal:
 Jika Anda memiliki pertanyaan atau ingin berkolaborasi, silakan hubungi saya:
 
 * **Nama:** Syandrra
-* **[Tambahkan tautan/email kontak Anda di sini]**
+* **[syandrazahira2@gmail.com]**
 
 Terima kasih telah mengunjungi repositori ini!
 
